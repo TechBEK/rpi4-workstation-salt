@@ -6,3 +6,4 @@ base:
     - prettier.install
     - docker.install
     - docker.add_group
+    - terraform.install
