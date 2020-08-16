@@ -1,0 +1,2 @@
+black:
+  pkg.installed

@@ -1,9 +1,10 @@
 base:
   "*":
     - vscode.add_repo
-    - vscode.install
-    - black.install
-    - prettier.install
+    - vscode
+    - black
+    - prettier
     - docker.install
     - docker.add_group
-    - terraform.install
+    - terraform
+    - awscli
