@@ -6,6 +6,5 @@ base:
     - key_url: https://packagecloud.io/headmelted/codebuilds/gpgkey
     - clean_file: True
     - refresh: True
-    - require_in: 
-      - pkg: install_vscode
-
+    - require_in:
+        - pkg: install_vscode
