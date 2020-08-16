@@ -4,3 +4,5 @@ base:
     - vscode.install
     - black.install
     - prettier.install
+    - docker.install
+    - docker.add_group
